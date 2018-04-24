@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "https://rekoklik.blogspot.co.id/p/the-basic-need-for-human-beings-is.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://rekoklik.blogspot.co.id/2018/02/basic-human-needs-with-its.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
